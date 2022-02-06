@@ -3,5 +3,4 @@ matplotlib
 numpy
 pandas
 cycler
-mpl_toolkits
 plotly
